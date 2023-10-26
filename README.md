@@ -1,6 +1,6 @@
 ### Hi there I am Rama Krishna Pilla👋
 
-🚀 Senior Software Engineer | Full Stack Web Developer | Innovator in Multi-Agent Frameworks
+🚀 Senior Software Engineer | Full Stack Web Developer 
 
 👋 Hey there! I'm a seasoned Senior Software Engineer with a robust 6 years of experience in the tech industry. I've honed my skills as a Full Stack Web Developer, crafting seamless and efficient web applications that stand out in both functionality and design.
 
@@ -18,7 +18,6 @@ Let's connect and explore how we can create groundbreaking web solutions togethe
 
 [![Rama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arrekhey)](https://github.com/Arrekhey/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arrekhey&layout=compact&theme=radical)
 
 <!--
 **Arrekhey/Arrekhey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
