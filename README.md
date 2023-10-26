@@ -10,7 +10,7 @@ Frontend: **React, Next.js, TypeScript, Tailwind CSS**
 Backend: **Node.js, tRPC, Socket.io**
 I have a solid grasp of modern web technologies, ensuring that the applications I build are not only high-performing but also scalable and maintainable. My proficiency in React and Next.js has enabled me to create dynamic user interfaces, while my experience with Node.js and tRPC has empowered me to develop robust backend solutions.
 
-💻 Currently, I'm diving deep into the realm of Multi-Agent Frameworks, particularly with LLM Agents. I am passionate about exploring new technologies and methodologies that enhance the capabilities of web applications and create innovative solutions to complex problems.
+💻 Currently, I'm diving deep into the realm of **Multi-Agent Frameworks**, particularly with LLM Agents. I am passionate about exploring new technologies and methodologies that enhance the capabilities of web applications and create innovative solutions to complex problems.
 
 🔍 I believe in writing clean, efficient, and maintainable code, and I am always on the lookout for new challenges that push me to grow and expand my skill set.
 
