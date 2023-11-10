@@ -2,7 +2,7 @@
 
 🚀 Senior Software Engineer | Full Stack Web Developer 
 
-👋 Hey there! I'm a seasoned Senior Software Engineer with a robust 6 years of experience in the tech industry. I've honed my skills as a Full Stack Web Developer, crafting seamless and efficient web applications that stand out in both functionality and design.
+I'm a seasoned Senior Software Engineer with a robust 6 years of experience in the tech industry. I've honed my skills as a Full Stack Web Developer, crafting seamless and efficient web applications that stand out in both functionality and design.
 
 🛠️ Tech Stack Expertise:
 
